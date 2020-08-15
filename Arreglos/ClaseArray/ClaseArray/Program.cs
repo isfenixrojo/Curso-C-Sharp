@@ -10,7 +10,7 @@ namespace ClaseArray
     {
         static void Main(string[] args)
         {
-            //This is your code.
+            //This is your code..
             int[] list = { 12, 45, 98, 65, 12, 36, 78 };
             int[] temp = new int[list.Length]; //7 elementos
 
