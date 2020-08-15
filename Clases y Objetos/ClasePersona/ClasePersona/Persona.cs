@@ -8,6 +8,7 @@ namespace ClasePersona
 {
     class Persona
     {
+        //This is your code..
         public string Nombre { get; set; }
         public string Apellido { get; set; }
 
