@@ -10,7 +10,7 @@ namespace ArreglosMultidimencionales
     {
         static void Main(string[] args)
         {
-            //This is your code.
+            //This is your code..
             //Declarar un arreglo con tres filas y dos columnas;
             int[,] a = new int[3, 2] { { 0, 0 }, { 4, 7 }, { 6, 9 } };
 
