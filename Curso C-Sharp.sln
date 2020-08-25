@@ -49,6 +49,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polimorfismo", "Polimorfism
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{D2E09AEF-B56D-4EE1-81C6-15AB975B9E3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompararObjetos", "CompararObjetos\CompararObjetos.csproj", "{69A3DDB1-8D48-4EA2-B2D8-CD203C0FAC71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{D2E09AEF-B56D-4EE1-81C6-15AB975B9E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2E09AEF-B56D-4EE1-81C6-15AB975B9E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2E09AEF-B56D-4EE1-81C6-15AB975B9E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A3DDB1-8D48-4EA2-B2D8-CD203C0FAC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A3DDB1-8D48-4EA2-B2D8-CD203C0FAC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A3DDB1-8D48-4EA2-B2D8-CD203C0FAC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A3DDB1-8D48-4EA2-B2D8-CD203C0FAC71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +156,7 @@ Global
 		{173731AD-36E2-489A-B046-D821D588A18C} = {40266E30-B2E4-4ACF-92DA-FAB67DC21A59}
 		{840D029B-A88B-4D6C-BFC4-F26E6F4B9172} = {40266E30-B2E4-4ACF-92DA-FAB67DC21A59}
 		{D2E09AEF-B56D-4EE1-81C6-15AB975B9E3C} = {BED934E9-7905-4BC1-B842-235FA3976EF6}
+		{69A3DDB1-8D48-4EA2-B2D8-CD203C0FAC71} = {BED934E9-7905-4BC1-B842-235FA3976EF6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2B135EEF-CB06-48BA-B06D-ABAB82DC899C}
