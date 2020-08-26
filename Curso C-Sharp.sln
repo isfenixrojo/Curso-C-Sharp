@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseStringBuilder", "Clase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatoCadena", "FormatoCadena\FormatoCadena.csproj", "{6AB84068-74C8-4E20-86D0-B68AECC2A4B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoFechas", "ManejoFechas\ManejoFechas.csproj", "{B3118A21-46E0-499B-9EC3-E86384760829}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{6AB84068-74C8-4E20-86D0-B68AECC2A4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AB84068-74C8-4E20-86D0-B68AECC2A4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AB84068-74C8-4E20-86D0-B68AECC2A4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3118A21-46E0-499B-9EC3-E86384760829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3118A21-46E0-499B-9EC3-E86384760829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3118A21-46E0-499B-9EC3-E86384760829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3118A21-46E0-499B-9EC3-E86384760829}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -196,6 +202,7 @@ Global
 		{65C1B1E1-E1C0-46E4-AEF9-DABAE2E436EB} = {E81EBA75-DF7C-455B-9B43-90D56E2F2065}
 		{11499F75-FD62-4116-BABA-20C83382FB9B} = {E81EBA75-DF7C-455B-9B43-90D56E2F2065}
 		{6AB84068-74C8-4E20-86D0-B68AECC2A4B9} = {E81EBA75-DF7C-455B-9B43-90D56E2F2065}
+		{B3118A21-46E0-499B-9EC3-E86384760829} = {E81EBA75-DF7C-455B-9B43-90D56E2F2065}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2B135EEF-CB06-48BA-B06D-ABAB82DC899C}
